@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "LTEE Project"
+abstract: "A reproducible analysis project for LTEE variant calling"
+type: software
+authors:
+  - given-names: "Jierui"
+    family-names: "Qu"
+    email: "Jierui.Qu@mbzuai.ac.ae"
+    orcid: "https://orcid.org/0009-0009-6197-5032"
+repository-code: "https://github.com/JieruiQu/ltee-project"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-27"
